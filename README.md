@@ -1,2 +1,2 @@
-# kodluyoruzilkrepo g
+# kodluyoruzilkrepo 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
